@@ -62,12 +62,7 @@ service or configuration.
 
 ## ⚙️ Test Environment
 
-- OS: Windows / Linux
 - Rust: stable
 - Cargo: latest
 - Network: local / restricted
-
----
-
-## 📂 Structure
-
+- 
