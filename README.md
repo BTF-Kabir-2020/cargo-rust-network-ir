@@ -65,4 +65,4 @@ service or configuration.
 - Rust: stable
 - Cargo: latest
 - Network: local / restricted
-- 
+  
