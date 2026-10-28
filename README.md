@@ -1,5 +1,7 @@
 # Cargo & Rust Network Access Test
 
+Project page: https://ghourchiani.ir/projects/cargo-rust-network-ir
+
 ---
 
 ## 🇮🇷 بررسی دسترسی Cargo و Rust در ایران
